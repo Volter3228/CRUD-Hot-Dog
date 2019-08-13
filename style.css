@@ -21,3 +21,17 @@ textarea {
 .word-counter {
     width: 90px;
 }
+
+#logo {
+    font-size: 25px; 
+    font-weight: bold;
+}
+
+ul.navbar-nav {
+    font-size: 20px;
+}
+
+#createModalButton, #aboutButton {
+    width: 200px;
+}
+

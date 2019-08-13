@@ -6,7 +6,6 @@
       $sql = "DELETE FROM hot_dogs WHERE id='$id'";
       $res = mysqli_query($db, $sql);
      
-      //echo "<meta http-equiv='refresh' content='0;url=index.php'>";
       header("Location: index.php");
 	}
 ?>
