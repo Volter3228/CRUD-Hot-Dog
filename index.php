@@ -100,7 +100,7 @@
                     <div class="modal-body">       
                             <div class="input-group mb-4">
                                 <div class="custom-file">
-                                    <input type="file" name="file" class="custom-file-input" id="file" aria-describedby="inputGroupFileAddon04">
+                                    <input required type="file" name="file" class="custom-file-input" id="file" aria-describedby="inputGroupFileAddon04">
                                     <label class="custom-file-label" required for="file">Select a photo of Hot Dog...</label>
                                 </div>
                                 <div class="input-group-append">
